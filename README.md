@@ -1,4 +1,3 @@
-# cryptography-cia
 # Affine Cipher with Passphrase-Based Key Derivation
 
 A Python implementation of the Affine Cipher where keys A and B are automatically

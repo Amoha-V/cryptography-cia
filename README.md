@@ -15,7 +15,6 @@
 6. [How to Run](#6-how-to-run)
 7. [Worked Examples](#7-worked-examples)
 8. [Test Script](#8-test-script)
-9. [Key Concepts at a Glance](#9-key-concepts-at-a-glance)
 
 ---
 
